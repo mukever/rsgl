@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/action/AdminAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/ComAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/AdminBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/ComBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/SystemBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/Common.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/DBO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/MD5.java" charset="GBK" />
+  </component>
+</project>
